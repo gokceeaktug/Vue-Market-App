@@ -1,19 +1,27 @@
-# vueapp
+# Vue ile geliştirilen bir Ürünleri kategorileyerek ekleme-silme-güncelleme uygulaması 
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Projeyi geliştirirken kullanılan teknolojiler 
+-Bootstrap 
+-Bulma
+-Firebase , firestore
 
-### Compiles and minifies for production
-```
-npm run build
-```
+-------------------------------
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Proje kullanıcıların uygulamaya kayıt olup sonrasında giriş yaparak dashboard ekranına yönlendirilerek 
+istediği kategoride ürün eklemesini üstünde tanımlama değişikliklerinin yapılmasını ya da silinmesini sağlamaktadır.
+İlgili ürüne ait bir kategori yok ise öncelikle kategori eklenerek ürünü o kategoriye dahil etmesiyle devam edecektir.
+
+
+-------------------------------
+
+
+Projenin eksiklikleri ve yapımı devam eden fonksiyonları 
+Veritabanının localhost'da çalışması ile ilgili hatalar,
+Ekleme sırasında database hataları,
+Silme-güncellemenin olmaması.
+
+
+-------------------------------
+
